@@ -4,13 +4,13 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ owner/propietario del bot  ⋅.━━━━ ⊰
 global.owner = [
-  ['56977774748', 'creador', true],
-  ['972529277406'],
-  ['50495745934'], //numero del owner
+  ['51940901488', 'creador', true],
+  ['51940901488'],
+  ['51940901488'], //numero del owner
 ]
 //aqui poner los numero premium 
 global.mods = [] 
-global.prems = ['972529277448'], 
+global.prems = ['51940901488'], 
 
 global.APIs = { // API Prefix.
   
@@ -68,7 +68,7 @@ global.APIKeys = { // APIKey Here
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = 'toma tu sticker'
-global.author = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.author = '˙·٠•●♥ 𝙈𝘼𝙉𝙐𝙀𝙇 ♥●•٠·˙'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
