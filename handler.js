@@ -44,7 +44,7 @@ export async function handler(chatUpdate) {
                 if (!isNumber(user.exp))
                     user.exp = 0
                 if (!isNumber(user.limit))
-                    user.limit = 10
+                    user.limit = 100
                 if (!isNumber(user.lastclaim))
                     user.lastclaim = 0
                 if (!('registered' in user))
@@ -77,7 +77,7 @@ export async function handler(chatUpdate) {
                 if (!isNumber(user.health))
                     user.health = 100
                 if (!isNumber(user.limit))
-                    user.limit = 10
+                    user.limit = 100
                 if (!isNumber(user.potion))
                     user.potion = 0
                 if (!isNumber(user.trash))
@@ -191,7 +191,7 @@ export async function handler(chatUpdate) {
 
                     money: 0,
                     health: 100,
-                    limit: 10,
+                    limit: 100,
                     potion: 10,
                     trash: 0,
                     wood: 0,
@@ -642,7 +642,7 @@ export async function participantsUpdate({ id, participants, action }) {
                         text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Welcome, @user!').replace('@subject', await this.getName(id)).replace('@desc', groupMetadata.desc?.toString() || '*𝑮𝒓𝒖𝒑𝒐 𝒈𝒆𝒏𝒊𝒂𝒍 🥳*') :
                             (chat.sBye || this.bye || conn.bye || 'Bye, @user!')).replace('@user', '@' + user.split('@')[0])
                             let apii = await this.getFile(pp)
-                            this.sendHydrated(id, text, groupMetadata.subject, apii.data,                                                       'https://github.com/elrebelde21/The-LoliBot-MD', '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫', null, null, [
+                            this.sendHydrated(id, text, groupMetadata.subject, apii.data,                                                       'https://github.com/', '˙·٠•●♥ 𝙈𝘼𝙉𝙐𝙀𝙇 ♥●•٠·˙', null, null, [
                             [(action == 'add' ? '𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒊𝒅𝒐🥳!!' : '𝑺𝒆 𝒇𝒖𝒆 𝒖𝒏 𝒓𝒂𝒏𝒅𝒐𝒘 🧐'), '.s'],    
                             ['𝑴𝒆𝒏𝒖', '/menu']
                             ], '', { mentions: [user]})
