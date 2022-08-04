@@ -11,7 +11,7 @@ contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: nul
 title: '˙·٠•●♥ 𝙈𝘼𝙉𝙐𝙀𝙇 ♥●•٠·˙',
 body: '𝐂𝐫𝐞𝐚𝐝𝐨𝐫',         
 previewType: 0, thumbnail: fs.readFileSync("./media/menus/Menu3.jpg"),
-sourceUrl: `https://wa.me/56977774748`}}})
+sourceUrl: `https://wa.me/519060537308`}}})
   
 //const data = global.owner.filter(([id, isCreator]) => id && isCreator)
 //this.sendContact(m.chat, data.map(([id, name]) => [id, name]), m)
