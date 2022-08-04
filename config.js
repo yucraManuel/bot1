@@ -75,26 +75,26 @@ global.author = '˙·٠•●♥ 𝙈𝘼𝙉𝙐𝙀𝙇 ♥●•٠·˙'
 global.vs = '1.1.5'
 global.version = vs
 
-global.gt = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.gt = '˙·٠•●♥ 𝙈𝘼𝙉𝙐𝙀𝙇 ♥●•٠·˙'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/channel/UC9b3UIVnVb5eQt7_Y-Qz-3A'
-global.youtube = yt
+//global.yt = 'https://youtube.com/channel/UC9b3UIVnVb5eQt7_Y-Qz-3A'
+//global.youtube = yt
 
 global.ig = ''
 global.gatadiosig = ig
 
-global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
+global.md = 'https://github.com/yucraManuel'
 global.gatabot = md
 
-global.nn = 'https://chat.whatsapp.com/Lus9S60MABnH9lF4Wf2T7k'
+global.nn = 'https://chat.whatsapp.com/EsuQkNILaHIJkFXWvm0doh'
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/Byyrc8RJnUkJw6vvUgsbDF'
+global.nnn = 'https://chat.whatsapp.com/EsuQkNILaHIJkFXWvm0doh'
 global.nnngrupo = nnn
 
-global.paypal = 'https://www.instagram.com/gata_dios  https://paypal.me/OficialGD'
-global.donar = paypal
+//global.paypal = 'https://www.instagram.com/gata_dios  https://paypal.me/OficialGD'
+//global.donar = paypal
 
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
@@ -121,7 +121,7 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.wm = '˙·٠•●♥ 𝙈𝘼𝙉𝙐𝙀𝙇 ♥●•٠·˙'
 global.igfg = 'The Lolibot-MD'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
